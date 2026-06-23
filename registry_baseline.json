@@ -1,0 +1,32 @@
+{
+    "timestamp": "2026-06-08T06:30:36.532953",
+    "checksum": "4c37d45f8fe47e5a92fb70a1b3fdea69d239f168ce3b7c5cdcd979cdea3d939f",
+    "registry": {
+        "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run": {
+            "OneDrive": "C:\\Program Files\\OneDrive\\onedrive.exe",
+            "SecurityHealth": "C:\\Windows\\System32\\SecurityHealth.exe"
+        },
+        "HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Run": {
+            "WindowsDefender": "C:\\Program Files\\Windows Defender\\MSASCuiL.exe",
+            "MicrosoftEdge": "C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe"
+        },
+        "HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce": {},
+        "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce": {},
+        "HKLM\\SYSTEM\\CurrentControlSet\\Services\\WinDefend": {
+            "Start": "2",
+            "ImagePath": "C:\\Program Files\\Windows Defender\\MsMpEng.exe"
+        },
+        "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System": {
+            "EnableLUA": "1",
+            "ConsentPromptBehaviorAdmin": "2"
+        },
+        "HKLM\\SYSTEM\\CurrentControlSet\\Services\\SharedAccess\\Parameters\\FirewallPolicy": {
+            "EnableFirewall": "1",
+            "DisableNotifications": "0"
+        },
+        "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon": {
+            "Shell": "explorer.exe",
+            "Userinit": "C:\\Windows\\system32\\userinit.exe"
+        }
+    }
+}
